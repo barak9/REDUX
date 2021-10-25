@@ -1,10 +1,14 @@
 {
   "expo": {
-    "name": "Redux",
-    "slug": "Redux",
-    "version": "1.0.0",
+    "name": "ITC-Training",
+    "slug": "itc-training",
+    "version": "1.2.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./ITC-logo2.png",
+    "android": {
+      "package": "com.it.itctraining",
+      "versionCode": 3
+    },
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,6 +25,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
